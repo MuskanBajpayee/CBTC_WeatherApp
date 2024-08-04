@@ -1,7 +1,6 @@
 🔗Weather App:
 
-This project is a simple weather application that fetches weather data from a public API and displays it in a user-friendly interface. It utilizes HTML, CSS for styling, JavaScript for functionality, and an external API
-for weather data.
+This project is a simple weather application that fetches weather data from a public API and displays it in a user-friendly interface. It utilizes HTML, CSS for styling, JavaScript for functionality, and an external API for weather data.
 
 
 
@@ -35,7 +34,7 @@ Weather API: Integrates with a weather API (OpenWeatherMap) to retrieve real-tim
 
 Enter a city name or location in the search bar to retrieve current weather information.
 
-The app will display the temperature, humidity, wind speed, and weather description for the specified location.
+The app will display the temperature, humidity, wind speed, for the specified location.
 
 
 
